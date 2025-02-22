@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC Part #
+"1u","C1,C2,C5","Capacitor_SMD:C_0603_1608Metric","C15849"
+"100n","C3,C4,C6,C7","Capacitor_SMD:C_0603_1608Metric","C14663"
+"10k","R1,R4","Resistor_SMD:R_0603_1608Metric","C25804"
+"4k7","R2","Resistor_SMD:R_0603_1608Metric","C23162"
+"5k1","R3","Resistor_SMD:R_0603_1608Metric","C23186"
+"220","R5,R6","Resistor_SMD:R_0603_1608Metric","C22962"
