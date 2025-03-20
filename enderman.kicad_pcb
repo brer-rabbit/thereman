@@ -1554,7 +1554,7 @@
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp fb37dfa2-48e9-41c2-ba91-a438e29fff11))
   (gr_line (start 141.026138 93.039062) (end 141.026138 137.501956)
     (stroke (width 0.2) (type solid)) (layer "Edge.Cuts") (tstamp ff9dbc28-325c-44b9-875b-35b40252dd1e))
-  (gr_text "REYWAS INDSTRIES 2025" (at 151.8 91.6 90) (layer "B.SilkS") (tstamp 705d0aae-d1a7-41de-84fb-2929f90137b8)
+  (gr_text "REYWAS INDUSTRIES 2025" (at 151.8 91.6 90) (layer "B.SilkS") (tstamp 705d0aae-d1a7-41de-84fb-2929f90137b8)
     (effects (font (size 1 1) (thickness 0.1)) (justify left bottom mirror))
   )
 
