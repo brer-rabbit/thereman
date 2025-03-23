@@ -12,7 +12,7 @@ The kit contains a PCB with the dual 555 timer (a 556), the LDRs, eye LEDs, and 
 
 ## Prep
 
-Tin the pads first.  Shown below, tin all the pads marked in green; the pads in red should not be tinned.
+Tin the pads first.  Shown below, tin the pads marked in green.  The pads in red should not be tinned.
 
 ![Tin pads shown in green](build/tinning.jpg)
 
