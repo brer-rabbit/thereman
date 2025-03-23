@@ -12,13 +12,13 @@ The kit contains a PCB with the dual 555 timer (a 556), the LDRs, eye LEDs, and 
 
 ## Prep
 
-Tin the pads first.  Shown below, tin all the pads marked in green; the pads in red do no need soldering.
+Tin the pads first.  Shown below, tin all the pads marked in green; the pads in red should not be tinned.
 
 ![Tin pads shown in green](build/tinning.jpg)
 
-Optionally, tin the yellow pads: there are not electrically connected and you can solder a wire between them to create a loop to hang the Thereman.
+Optionally, tin the yellow pads: these are not electrically connected.  You can solder a wire between them to create a loop to if you want to hang the Thereman or attach it to something.
 
-Just a touch of solder for tinning and you don't want solder poking up.  Keep it flat and level so components can attach.
+Just a touch of solder for tinning please.  And you don't want solder poking up.  Keep it flat and level so components lay flat.
 
 ![This is not even, keep it flat](build/tinning_keep_it_level.jpg)
 
