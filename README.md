@@ -24,9 +24,9 @@ Just a touch of solder for tinning please.  And you don't want solder poking up.
 
 ## Switch
 
-The switch has a few small pads; it's easiest to do this first before the other components clutter the space.  There on/off switch sticks out the side of the Thereman.
+The switch has a few small pads; it's easiest to do this first before the other components clutter the space.  The on/off switch sticks out the side of the Thereman.
 
-Once done congrats!  You've soldered the smallest component of the project.
+Once done congrats!  You've soldered the smallest component of the project.  Everything else ought to be easy.
 
 ## Piezo Buzzer
 
@@ -46,3 +46,7 @@ The bottom two battery retainers need to be oriented so one can insert batteries
 Also, keep the battery retainers slightly apart so they do not touch.
 
 ![Keep the retainers a bit apart, this is too close](build/retainers_too_close.jpg)
+
+## Cleaning
+
+A bit of isopropyl alcohol can be used for cleaning.  Try not to get alcohol in the switch or the piezo buzzer.
