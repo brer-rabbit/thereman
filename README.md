@@ -16,7 +16,7 @@ Tin the pads first.  Shown below, tin the pads marked in green.  The pads in red
 
 ![Tin pads shown in green](build/tinning.jpg)
 
-Optionally, tin the yellow pads: these are not electrically connected.  You can solder a wire between them to create a loop to if you want to hang the Thereman or attach it to something.
+Optionally: if you'd like a loop of wire to hang the Thereman from, tin the yellow pads.  These are not electrically connected.  You can solder a wire to one or between them to create a loop.
 
 Just a touch of solder for tinning please.  And you don't want solder poking up.  Keep it flat and level so components lay flat.
 
@@ -50,3 +50,7 @@ Also, keep the battery retainers slightly apart so they do not touch.
 ## Cleaning
 
 A bit of isopropyl alcohol can be used for cleaning.  Try not to get alcohol in the switch or the piezo buzzer.
+
+## Flip the switch!
+
+With batteries installed (positive side facing up in retainer) flip the switch.  Your Thereman should now start annoying!
