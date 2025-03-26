@@ -6,7 +6,7 @@ The Thereman contains two LDRs (Light Dependent Resistors) and a dual 555 timer 
 
 # Build
 
-The kit contains a PCB with the dual 555 timer (a 556), the LDRs, eye LEDs, and some passive components on the front.  The back requires soldering a couple components.  I'm assuming you're using regular solder wire.
+The kit contains a PCB with the dual 555 timer (a 556), the LDRs, eye LEDs, and some passive components on the front, pre-soldered (lead free).  The back requires soldering a couple components.  I'm assuming you're using regular solder wire (if you're using liquid solder I assume you know what you're doing).
 
 ![Components shown with front and back of Thereman](build/components.jpg)
 
@@ -51,6 +51,10 @@ Also, keep the battery retainers slightly apart so they do not touch.
 
 A bit of isopropyl alcohol can be used for cleaning.  Try not to get alcohol in the switch or the piezo buzzer.
 
+![Finished backside ready for cleaning](build/finished_back.jpg)
+
 ## Flip the switch!
 
 With batteries installed (positive side facing up in retainer) flip the switch.  Your Thereman should now start annoying!
+
+![Front](build/finished_front.jpg)
